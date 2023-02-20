@@ -1,0 +1,6 @@
+django
+pandas
+numpy
+openpyxl
+django-crispy-forms
+
